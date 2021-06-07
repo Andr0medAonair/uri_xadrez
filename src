@@ -1,0 +1,16 @@
+#include <iostream>
+
+using namespace std;
+
+int main(){
+    ios_base::sync_with_stdio(false);
+    int L{};
+    int C{};
+    cin>>L>>C;
+    if((L%2==0&&C%2==0)||(L%2!=0&&C%2!=0))
+        cout<<'1';
+    else
+        cout<<'0';
+    cout<<'\n';
+    return 0;
+}

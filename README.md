@@ -9,6 +9,6 @@ Clonando o repositório:
 2. Instalar Git
 3. Clicar com o botão direito na pasta em que deseja fazer o download do repositório
 4. Clicar em Git Bash Here
-5. Inserir o comando git clone https://github.com/Andr0medAonair/uri_xadrez.git
+5. Inserir o comando: git clone https://github.com/Andr0medAonair/uri_xadrez.git
 6. Pressionar enter e aguardar o processo ser finalizado
 7. O repositório será disponibilizado na pasta escolhida

@@ -1,6 +1,5 @@
 # uri_xadrez
 Código do problema 2787 - Xadrez
-https://github.com/Andr0medAonair/uri_xadrez.git
 
 Link do problema: https://www.urionlinejudge.com.br/judge/pt/problems/view/2787
 
